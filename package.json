@@ -1,7 +1,6 @@
 {
   "name": "shoppingcart",
   "private": true,
-  "homepage": "https://Francesco-shopping-project.github.io/e-plantShopping",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
